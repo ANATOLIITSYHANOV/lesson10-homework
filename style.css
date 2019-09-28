@@ -1,0 +1,79 @@
+#main_div{
+    background-color: blanchedalmond;
+    border: 15px solid black;
+    width: 805px;
+    height: 805px;
+    margin: 0 auto;
+    position: relative;
+}
+
+div{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+}
+
+.row1{
+    top: 2.5px;
+}
+
+.row2{
+    top:102.5px;
+}
+
+.row3{
+    top:202.5px;
+}
+
+.row4{
+    top:302.5px;
+}
+
+.row5{
+    top:402.5px;
+}
+
+.row6{
+    top:502.5px;
+}
+
+.row7{
+    top:602.5px;
+}
+
+.row8{
+    top:702.5px;
+}
+
+.col1{
+    left: 2.5px;
+}
+
+.col2{
+    left: 102.5px;
+}
+
+.col3{
+    left: 202.5px;
+}
+
+.col4{
+    left: 302.5px;
+}
+
+.col5{
+    left: 402.5px;
+}
+
+.col6{
+    left: 502.5px;
+}
+
+.col7{
+    left: 602.5px;
+}
+
+.col8{
+    left: 702.5px;
+}
