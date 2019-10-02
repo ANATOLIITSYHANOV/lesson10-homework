@@ -14,6 +14,14 @@ div{
     position: absolute;
 }
 
+.blackchecker{
+    background-image: url('blackchecker.png');
+}
+
+.checker{
+    background-image: url('checker.png');
+}
+
 .row1{
     top: 2.5px;
 }
